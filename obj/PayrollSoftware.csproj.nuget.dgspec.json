@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/caseythayer/pay-slip-generator-application/PayrollSoftware.csproj": {}
+  },
+  "projects": {
+    "/Users/caseythayer/pay-slip-generator-application/PayrollSoftware.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/caseythayer/pay-slip-generator-application/PayrollSoftware.csproj",
+        "projectName": "PayrollSoftware",
+        "projectPath": "/Users/caseythayer/pay-slip-generator-application/PayrollSoftware.csproj",
+        "packagesPath": "/Users/caseythayer/.nuget/packages/",
+        "outputPath": "/Users/caseythayer/pay-slip-generator-application/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/caseythayer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
